@@ -4,6 +4,7 @@ import Movies from "./pages/Movies"
 import Watchlist from "./pages/Watchlist"
 import MovieDetailPage from './pages/MovieDetailPage'
 import AddMoviePage from './pages/AddMoviePage';
+import Footer from "./components/Footer";
 function App() {
 
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/add" element={<AddMoviePage />} />
 
         </Routes>
+         <Footer />
       </BrowserRouter>
     </>
   )
