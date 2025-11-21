@@ -13,7 +13,7 @@ A simple full-stack app to browse movies, view details, and add new movies to a 
 - View list of movies
 - View movie details (title, year, description, poster, trailer link)
 - Add a new movie via a form
-- Basic watchlist (depending on your implementation)
+- Basic watchlist 
 
 ---
 
@@ -21,7 +21,7 @@ A simple full-stack app to browse movies, view details, and add new movies to a 
 
 - **Frontend:** React (Vite) + Tailwind CSS + Axios  
 - **Backend:** Flask (Python) + REST API  
-- **DB:** SQLite (or whatever you configured)
+- **DB:** SQLite 
 
 ---
 ✨ Features
