@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import ReviewPopup from '../components/ReviewPopup';
 
-const API_BASE = 'http://127.0.0.1:5000'; // local Flask server
+const API_BASE = 'https://movies-review-app-3.onrender.com'; 
 
 export default function MovieDetailPage() {
   const { id } = useParams();

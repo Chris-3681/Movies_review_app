@@ -7,7 +7,7 @@ export default function Movies() {
 
   useEffect(() => {
     // DIRECT, NO ENV VAR
-    fetch('http://127.0.0.1:5000/api/movies')
+    fetch('https://movies-review-app-3.onrender.com/api/movies')
       .then(res => {
         if (!res.ok) {
           throw new Error(`HTTP error! status: ${res.status}`);
