@@ -3,8 +3,8 @@
 A simple full-stack app to browse movies, view details, and add new movies to a list.
 
 ## 🚀 Live Demo
-- Frontend : https://your-movie-review-app.vercel.app
-- Backend API: https://your-movie-review-api.onrender.com
+- Frontend : https://movies-review-app-4.onrender.com/
+- Backend API: https://movies-review-app-3.onrender.com/
 
 
 
